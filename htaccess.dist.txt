@@ -1,2 +1,0 @@
-RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://basitali1.github.io.com/$1 [R=301,L]
